@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b93c578ac32f42547b262c6f50a56eab, type: 3}
+  m_Name: 2_Shortsword
+  m_EditorClassIdentifier: 
+  swordName: Shortsword
+  description: This sword is for people who wants defend themself
+  icon: {fileID: 21300000, guid: 3ab695626ea6663459b922cf9e139427, type: 3}
+  goldCost: 45
+  attackDamage: 15
+  swordSound: {fileID: 8300000, guid: 52d0d3d1dd6858841a125b6a458c1a92, type: 3}
